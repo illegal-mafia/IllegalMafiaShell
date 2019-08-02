@@ -1,6 +1,6 @@
 <?php 
 	/*
-		         Verilen Kod By Tanımsız Php Şifreleyici İle Şifrelendi! xbilinmez
+		         Verilen Kod By Tanımsız Php Şifreleyici İle Şifrelendi!
 									ILLEGALMAFIA.COM
 							           By Tanımsız
 		                                  Roocer
